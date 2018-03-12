@@ -1,0 +1,14 @@
+{
+  "name": "react-native-slide-menu",
+  "version": "0.0.1",
+  "description": "Top side sliding menu like system native ones",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Flavio Cordari <khord.air@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-native": "^0.52.0",
+    "prop-types": "^15.6.1"
+  }
+}
